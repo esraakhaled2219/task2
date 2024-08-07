@@ -25,7 +25,7 @@ function Buttons () {
         ];
         return (
             <div>
-                {arrayofobjects.length > 0} ?
+                {arrayofobjects.length > 0} 
                 {arrayofobjects.map((item) => {
                     return (
                     <Rep 
