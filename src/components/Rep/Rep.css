@@ -1,0 +1,24 @@
+#interact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+
+
+
+button {
+    width: 70%;
+    height: 40px;
+    border: none;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fffafa;
+   
+}
